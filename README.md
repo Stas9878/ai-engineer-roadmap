@@ -712,7 +712,15 @@ RAG (Retrieval-Augmented Generation) — это паттерн, в которо�
 - Сравнение реляционных и векторных БД: разные типы индексов и сценарии применения
 - Пошаговое описание: создание эмбеддингов → сохранение в векторной БД → поиск похожих векторов
 
-#### 2. [Векторные базы данных и их роль в ИИ](https://dtf.ru/id2687299/4081155-vektornye-bazy-dannyh-i-ih-rol-v-ii-embeddingi-i-generatsiya)
+#### 2. [Авторский курс: «Qdrant: полный курс»](https://stepik.org/course/292147/promo)
+
+Практический курс по Qdrant для Python-разработчиков: от первого контейнера до production-эксплуатации. Финал — проект VectorCatalog (FastAPI + Qdrant + Docker Compose):
+
+- REST API и Python-клиент: коллекции, CRUD, `query_points`, scroll, фильтры по payload
+- Продвинутые паттерны: гибридный поиск (dense + sparse, RRF), Recommendation API, multitenancy, алиасы коллекций
+- Production: Docker Compose, snapshots, мониторинг, API key, zero-downtime reindex
+
+#### 3. [Векторные базы данных и их роль в ИИ](https://dtf.ru/id2687299/4081155-vektornye-bazy-dannyh-i-ih-rol-v-ii-embeddingi-i-generatsiya)
 
 Хороший обзор, который связывает векторные базы с RAG и «памятью» ИИ‑систем:
 
@@ -721,7 +729,7 @@ RAG (Retrieval-Augmented Generation) — это паттерн, в которо�
 - Примеры использования: рекомендательные системы, диалоговые ИИ, долговременный контекст
 - Подача на понятном языке, полезная именно для инженера, а не теоретика
 
-#### 3. [Всё про Qdrant: обзор векторной базы данных](https://habr.com/ru/companies/amvera/articles/925206/)
+#### 4. [Всё про Qdrant: обзор векторной базы данных](https://habr.com/ru/companies/amvera/articles/925206/)
 
 Практический обзор Qdrant как одной из популярных open‑source векторных баз, полезный для понимания реальной архитектуры:
 
@@ -1345,8 +1353,9 @@ LLM-системы в продакшене работают по токенно�
 
 Для учащихся, прошедших [курс на Stepik](https://stepik.org/course/272146/promo) и **оставивших отзыв**, я готов предоставить **скидку 30%** на курсы:
 
-- **[AI Агенты на Python: для начинающих](https://stepik.org/course/274734/promo)**
 - **[LLM для Python-разработчиков: от RAG до агентов](https://stepik.org/course/262955/promo)**
+- **[Qdrant: полный курс](https://stepik.org/course/292147/promo)**
+- **[AI Агенты на Python: для начинающих](https://stepik.org/course/274734/promo)**
 
 Чтобы получить данную скидку, напишите мне в Телеграм [@VGG_Stanislav_Popov](https://t.me/VGG_Stanislav_Popov).
 
