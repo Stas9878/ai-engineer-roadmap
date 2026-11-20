@@ -1365,6 +1365,7 @@ LLM-системы в продакшене работают по токенно�
 Для учащихся, прошедших [курс на Stepik](https://stepik.org/course/272146/promo) и **оставивших отзыв**, я готов предоставить **скидку 30%** на курсы:
 
 - **[LLM для Python-разработчиков: от RAG до агентов](https://stepik.org/course/262955/promo)**
+- **[LLM для Python-разработчиков: для продвинутых](https://stepik.org/course/295869/promo)**
 - **[Qdrant: полный курс](https://stepik.org/course/292147/promo)**
 - **[AI Агенты на Python: для начинающих](https://stepik.org/course/274734/promo)**
 
